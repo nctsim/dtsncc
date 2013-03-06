@@ -1,7 +1,7 @@
 DTSN ns-2 code
 
 Requirements:
-- [ns-2.31,] (http://sourceforge.net/projects/nsnam/files/allinone/ns-allinone-2.31/)
+- ns-2.31, http://sourceforge.net/projects/nsnam/files/allinone/ns-allinone-2.31/
 - ns2measure Data Collection Framework, http://cng1.iet.unipi.it/wiki/index.php/Ns2measure
 - fixrt Fixed Routing, http://www.winlab.rutgers.edu/~zhibinwu/html/Routing_Agent.html
 
